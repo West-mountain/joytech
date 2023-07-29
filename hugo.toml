@@ -1,6 +1,6 @@
 baseURL = "/"
 title = "Goldydocs"
-publicDir = "docs"
+publishDir = "docs"
 
 # Language settings
 contentDir = "content/en"
