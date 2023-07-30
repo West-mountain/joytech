@@ -1,6 +1,6 @@
 ---
 title: Documentation
-linkTitle: Docs
+linkTitle: JMP笔记
 menu: {main: {weight: 20}}
 weight: 20
 ---

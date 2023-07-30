@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: JOT博客
 menu: {main: {weight: 30}}
 ---
 
