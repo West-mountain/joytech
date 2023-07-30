@@ -6,7 +6,7 @@ title: Goldydocs
 <a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
   JMP笔记 <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
-<a class="btn btn-lg btn-secondary me-3 mb-4" href="/joy/">
+<a class="btn btn-lg btn-secondary me-3 mb-4" href="/community/">
   JOY故事 <i class="fa fa-coffee ms-2 "></i>
 </a>
 <a class="btn btn-lg btn-primary me-3 mb-4" href="/blog/">
